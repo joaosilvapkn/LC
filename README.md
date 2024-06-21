@@ -21,3 +21,8 @@ Passos a seguir em windows para correr os programas:
   10. Arrancar o jupyter: jupyter notebook
 
 Depois de instaladas todas as bibliotecas, apenas será necessário ativar o ambiente criado, e abrir o jupyter
+
+Nota final TP1: B+
+Nota final TP2: A-
+Nota final TP3: B
+Nota final TP4: A
